@@ -1,0 +1,117 @@
+body {
+  background: url(../img/fondo2.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+.encaje{
+  background-color: rgba(0, 0, 0, 0.9);
+}
+.titulo-pri{
+  color: white;
+  background-color: rgba(191, 127, 63, 0.2);
+}
+.Busqueda{
+  background-color: rgba(191, 191, 63, 0.2);
+  color: white;
+}
+.search-img{
+  background-color: white;
+  height: 39px;
+}
+.Lista1{
+  background-color: rgba(191, 127, 63, 0.2);
+  color: white;
+}
+.Lista1 h4{
+  margin: 10px;
+  border-bottom: 1px solid white;
+}
+.Lista1 h6{
+  margin: 10px;
+  border-bottom: 1px solid white;
+}
+.Favoritos{
+  background-color: rgba(191, 191, 63, 0.2);
+  color: white;
+}
+.post-img{
+  border: 2px solid rgba(191, 127, 63, 0.8);
+}
+.Historial{
+  margin-top: 10px;
+  background-color: rgba(191, 127, 63, 0.2);
+  color: white;
+}
+.Historial h4{
+  margin: 10px;
+  border-bottom: 1px solid white;
+}
+.Historial h6{
+  margin: 10px;
+  border-bottom: 1px solid white;
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+}
+.primer-post-title{
+  color: white;
+  background-color: rgba(191, 127, 63, 0.2);
+  width: 100%;
+  margin-bottom: 10px;
+}
+.contenido-post1{
+  color: white;
+  background-color: rgba(191, 191, 63, 0.2);
+}
+.fond-post-img{
+  width: 100em;
+  border: 2px solid rgba(191, 127, 63, 0.8);
+}
+.comentario-img{
+  width: 114px;
+  background-color: rgba(191, 127, 63, 0.8);
+}
+.Historial2{
+  margin-top: 10px;
+  background-color: rgba(191, 127, 63, 0.2);
+  color: white;
+}
+.Historial2 h5{
+  margin: 10px;
+  border-bottom: 1px solid white;
+}
+.Historial2 p{
+  margin: 10px;
+  border-bottom: 1px solid white;
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+}
+.segundo-post-title{
+  color: white;
+  background-color: rgba(191, 191, 63, 0.2);
+  width: 100%;
+  margin-bottom: 10px;
+}
+.contenido-post2{
+  color: white;
+  background-color: rgba(191, 127, 63, 0.2);
+}
+.Historial3{
+  margin-top: 10px;
+  background-color: rgba(191, 191, 63, 0.2);
+  color: white;
+}
+.Historial3 h5{
+  margin: 10px;
+  border-bottom: 1px solid white;
+}
+.Historial3 p{
+  margin: 10px;
+  border-bottom: 1px solid white;
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+}

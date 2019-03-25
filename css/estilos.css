@@ -1,0 +1,97 @@
+.cinema-body {
+  background: url(../img/fondo1.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+header{
+  background-color: rgba(0, 0, 0, 0.9);
+  margin:auto;
+}
+.logo-img {
+  width: 150px;
+  display:block;
+  margin:auto;
+  margin-top: 10px;
+}
+.logos_s{
+  margin-top: 150px;
+}
+.img-social{
+  width: 35px;
+  height: 35px;
+}
+.navbar-inverse {
+  background-color: rgba(191, 63, 63, 0.8);
+  min-height: 10%;
+  border: none;
+}
+nav ul{
+  list-style:none;
+}
+nav ul li{
+    width:180px;
+    padding:.5em 0;
+    margin:.5em;
+    margin: auto;
+}
+nav ul li a:hover{
+    border:2px solid #fff;
+    margin: auto;
+}
+.bio_uno{
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+}
+.imagen_1{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.cara1-img{
+  width: 400px;
+  margin: auto;
+}
+.bio_dos{
+  margin: auto;
+  background-color: rgba(191, 63, 63, 0.8);
+  color: white;
+}
+.imagen_2{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.cara2-img{
+  width: 400px;
+  margin: auto;
+}
+.Busqueda{
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+}
+.search-img{
+  background-color: rgba(191, 63, 63, 0.8);
+  height: 30px;
+}
+.lista1{
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+}
+.lista1 ul li{
+  border:1px solid #fff;
+  margin: auto;
+}
+.coment-img{
+  width: 10px;
+  margin: auto;
+}
+@media (max-width: 991px) {
+  .logos_s{
+    margin-top: 10px;
+  }
+}
